@@ -15,4 +15,4 @@ A website dedicated to chips and related information. This is a static website b
 ## Setup
 
 This website is hosted using GitHub Pages. To view the website, visit:
-https://[your-github-username].github.io/[repository-name] 
+https://b00819544.github.io/chip
