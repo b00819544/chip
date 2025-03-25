@@ -4,7 +4,7 @@ A website dedicated to chips and related information. This is a static website b
 
 ## Pages
 
-- Homepage (chip.html)
+- Homepage (index.html)
 - Big Flop (bigflop.html)
 - Champion (champion.html)
 - Curved Chips (curved-chips.html)
